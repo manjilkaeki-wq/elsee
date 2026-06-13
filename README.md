@@ -1,5 +1,7 @@
-#main<>("variable,"X"&"Y")<
-#if("X/2"=="even"),
-#elif=="odd"
-#variables.strip()
-#return.end/n,
+#main<>("variables,"x"&"Y"),
+name=int(input"enter the variables...."),
+#printf(variables,*,+"),
+#variables.strip/n,
+#else if"X/2"=="even"),
+#elif=="odd",
+#return=="end"
